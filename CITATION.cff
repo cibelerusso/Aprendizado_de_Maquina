@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
+type: misc
 authors:
 - family-names: "Russo"
   given-names: "Cibele M."
