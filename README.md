@@ -2,7 +2,7 @@
 ## ICMC USP
 ## Profa. Cibele Russo
 
-[![DOI](https://sandbox.zenodo.org/badge/614959916.svg)](https://zenodo-rdm-qa.web.cern.ch/doi/10.5281/zenodo.10002925)
+[![DOI](https://sandbox.zenodo.org/badge/614959916.svg)](https://zenodo-rdm-qa.web.cern.ch/records/10002925)
 
 Se você usar este repositório, por favor cite-o.
 
@@ -16,3 +16,5 @@ title = {{Aprendizado de Máquina Estatístico com Aplicações em Python}},
 url = {https://github.com/cibelerusso/Aprendizado_de_Maquina/},
 year = {2023}
 }
+
+
