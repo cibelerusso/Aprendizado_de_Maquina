@@ -13,7 +13,7 @@ author = {Russo, Cibele M.},
 doi = {10.5281/zenodo.10002925},
 month = oct,
 title = {{Aprendizado de Máquina Estatístico com Aplicações em Python}},
-url = {https://github.com/cibelerusso/Aprendizado_de_Maquina/},
+url = {[https://github.com/cibelerusso/Aprendizado_de_Maquina/](https://github.com/cibelerusso/Aprendizado_de_Maquina)},
 year = {2023}
 }
 
